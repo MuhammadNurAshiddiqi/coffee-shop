@@ -26,3 +26,10 @@ To build for production, run build:
 ```
 $ npm run build
 ```
+
+
+# Deploy
+
+```
+$ turbo deploy
+```
